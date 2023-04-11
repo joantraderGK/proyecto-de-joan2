@@ -1,0 +1,15 @@
+C:\Users\Bryan\Desktop\proyecto-de-joan2-master\proyecto de joan2\bin\Debug\net7.0\proyecto de joan2.exe
+C:\Users\Bryan\Desktop\proyecto-de-joan2-master\proyecto de joan2\bin\Debug\net7.0\proyecto de joan2.deps.json
+C:\Users\Bryan\Desktop\proyecto-de-joan2-master\proyecto de joan2\bin\Debug\net7.0\proyecto de joan2.runtimeconfig.json
+C:\Users\Bryan\Desktop\proyecto-de-joan2-master\proyecto de joan2\bin\Debug\net7.0\proyecto de joan2.dll
+C:\Users\Bryan\Desktop\proyecto-de-joan2-master\proyecto de joan2\bin\Debug\net7.0\proyecto de joan2.pdb
+C:\Users\Bryan\Desktop\proyecto-de-joan2-master\proyecto de joan2\obj\Debug\net7.0\proyecto de joan2.csproj.AssemblyReference.cache
+C:\Users\Bryan\Desktop\proyecto-de-joan2-master\proyecto de joan2\obj\Debug\net7.0\proyecto de joan2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\Desktop\proyecto-de-joan2-master\proyecto de joan2\obj\Debug\net7.0\proyecto de joan2.AssemblyInfoInputs.cache
+C:\Users\Bryan\Desktop\proyecto-de-joan2-master\proyecto de joan2\obj\Debug\net7.0\proyecto de joan2.AssemblyInfo.cs
+C:\Users\Bryan\Desktop\proyecto-de-joan2-master\proyecto de joan2\obj\Debug\net7.0\proyecto de joan2.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Desktop\proyecto-de-joan2-master\proyecto de joan2\obj\Debug\net7.0\proyecto de joan2.dll
+C:\Users\Bryan\Desktop\proyecto-de-joan2-master\proyecto de joan2\obj\Debug\net7.0\refint\proyecto de joan2.dll
+C:\Users\Bryan\Desktop\proyecto-de-joan2-master\proyecto de joan2\obj\Debug\net7.0\proyecto de joan2.pdb
+C:\Users\Bryan\Desktop\proyecto-de-joan2-master\proyecto de joan2\obj\Debug\net7.0\proyecto de joan2.genruntimeconfig.cache
+C:\Users\Bryan\Desktop\proyecto-de-joan2-master\proyecto de joan2\obj\Debug\net7.0\ref\proyecto de joan2.dll
